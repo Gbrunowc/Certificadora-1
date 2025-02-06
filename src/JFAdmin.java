@@ -119,7 +119,7 @@ public class JFAdmin extends javax.swing.JFrame {
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         new JFRelatorio().setVisible(true);
-        this.dispose();
+        //this.dispose();
     }//GEN-LAST:event_jButton6ActionPerformed
 
     /**

@@ -242,7 +242,7 @@ public class JFConsultaVoluntario extends javax.swing.JFrame {
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
         new JFDisponibilidade(Long.parseLong(jTextField3.getText())).setVisible(true);
-        this.dispose();
+        //this.dispose();
     }//GEN-LAST:event_jButton5ActionPerformed
 
     /**
